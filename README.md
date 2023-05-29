@@ -1,2 +1,1 @@
-# ritvikroy.github.io
-Personal Portfolio website
+# Welecome to my portfolio website!
